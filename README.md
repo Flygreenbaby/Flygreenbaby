@@ -1,5 +1,5 @@
 # welcome to my README 👋
-
+![trophy](https://github-profile-trophy.vercel.app/?username=Flygreenbaby)
 不拽英文了，这里还是中文写的舒服。
 今天是 2025.6.8，25 届高考进行的第二天，突然看到了 GitHub 有 readme 这个自述，就来开整了。
 写的不好直接发邮箱怼我（主要是我太懒了，骂的不够劲我根本懒得动）
