@@ -1,16 +1,58 @@
-## Hi there 👋
+# welcome to my README 👋
 
-<!--
-**Flygreenbaby/Flygreenbaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+不拽英文了，这里还是中文写的舒服。
+今天是 2025.6.8，25 届高考进行的第二天，突然看到了 GitHub 有 readme 这个自述，就来开整了。
+写的不好直接发邮箱怼我（主要是我太懒了，骂的不够劲我根本懒得动）
 
-Here are some ideas to get you started:
+## First Thing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+当然是自我介绍了：
+
+我叫**韩向前**，地地道道的河南人（感觉懒的基因就在这里）
+
+高三那年厌学，班主任都放弃我了，我也放弃我了，可惜那年七月考试还是给我捞上了本科（还是公办的）
+
+进入大学后，我的世界进入了一种盘古的状态，我感觉我超级牛，居然扛下来没崩溃，虽然认知提上去了，但是激情也没了（小小的老子大学四年太精彩，什么都干过，好学生坏学生打工创业等等）
+
+现在在延毕，预计延毕两年，在2026年6月底毕业
+
+前三年对于编程只有需要学的想法，但执行力始终不够，不怀疑的可以去看我的仓库，年份久远。现在又开始了，就慢慢学呗，当个钓鱼佬，“熬”
+
+哦，对了，我还给自己起了一个英文名字：**ahyun**（源于一个ig博主，自从公开恋爱后就不看了😭）
+
+这里是我的 [home-page](ahyun.org.cn)
+
+这里是我的 [blog](blog.ahyun.org.cn)
+
+还有📮：<hxqlst@163.com> (禁止神经信息哦)
+
+
+
+## Second Thing
+
+在这里列出几项想做的事情（注意想做，不是必做）
+
+- [ ] 完善GitHub个人资料
+- [ ] 完善个人网站导航页
+- [ ] 完善blog流程：会写、会上传、会用Typora熟练写markdown文章/日记
+- [ ] 学会前端三件套：HTML、CSS、JavaScript
+- [ ] 学会Git指令
+- [ ] 学会Linux指令
+- [ ] 熟悉第一个编程技术-python
+
+也许这些很少，啊啊啊，主要是我的精力和注意力不能长期聚焦在一处，所以坚持几年了这一次一定要成功  
+
+## Third Thing
+
+- 🔭 我想家里蹲（因为我好懒，而且不喜欢跑太远）
+- 🌱 其实我还想学习画画、剪辑、设计、摄影、做饭、运动方面也想，还有很多（没办法我是一个想要又要的人）
+- 🤔 期待一个心目中的人（说是伴侣也好，未来朋友也罢，有这么一个人至少不那么孤单）
+- ⚡ Fun fact: steam吴亦凡坐牢头像（哈哈哈哈）
+
+***
+
+最后，最后：监督我，就当作你在网上养的宠物，我真的很想学会编程┭┮﹏┭┮😭
+
+我后面研究研究如何提交问题、评论，我会在home-page开一个留言板专门让大家评论监督我。
+
+在这里先谢谢大家了！！！
